@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-01-components",
+  "name": "react-hw-05-budget-planner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://evgeniysss.github.io/goit-react-hw-04-reader",
+  "homepage": "https://evgeniysss.github.io/goit-react-hw-05-budget-planner/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
